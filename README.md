@@ -2,6 +2,8 @@
 
 ### **About me:**   
 
+- I'm always willing to learn, I've been Developing mainly for FiveM for under 8 Months and still learning. :)
+
 - 🔭 I’m currently working on: FiveM Developing & learning further into Lua.
 - 📫 How to reach me: On discord, NS100#0001 :)
 
