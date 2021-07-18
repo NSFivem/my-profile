@@ -1,4 +1,5 @@
 ### Hi im NS100 👋
+- 💻 local Ns = nil
 
 ### **About me:**   
 
